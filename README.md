@@ -45,7 +45,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwowki&layout=compact)](https://github.com/kiwowki/github-readme-stats)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiwowki&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiwowki&show_icons=true&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kiwowki)](https://solved.ac/kiwowki)<br/>
 </div>
