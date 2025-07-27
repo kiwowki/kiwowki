@@ -2,8 +2,6 @@
 
  
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:000000,100:ffd900&height=250&text=Wolves&fontSize=60&animation=blink&fontColor=ffffff&fontAlignY=20&desc=Beginner%20Coder&descSize=15)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiwowki%2Fwebs2024&count_bg=%23FFD900&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ####  :wave: Welcome my github profile !
 안녕하세요! 프론트엔드와 백엔드에 모두 관심있는 1년차 개발자입니다.  <br/>
